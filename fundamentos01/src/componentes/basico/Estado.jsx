@@ -10,3 +10,4 @@ return(
         <h3>Aluno: {aluno}</h3>
     </div>
 )
+}
